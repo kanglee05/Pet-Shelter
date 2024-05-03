@@ -1,3 +1,0 @@
-/Users/kanglee/Pet-Shelter/cmake-build-debug/CMakeFiles/Pet_Shelter.dir
-/Users/kanglee/Pet-Shelter/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/kanglee/Pet-Shelter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
